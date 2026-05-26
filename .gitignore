@@ -10,3 +10,4 @@ venv/
 .vscode/
 .DS_Store
 trained_models/*.joblib
+temp_uploads/
